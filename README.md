@@ -5,7 +5,7 @@
 <h1>Hello,👋 I'm Anagha-k
                                                                                     
 
-<h2>Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|</h2>
+<h2>AI&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|</h2>
 
 
 

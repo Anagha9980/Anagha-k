@@ -1,12 +1,12 @@
-Hello,👋 I'm Anagha-k
+#Hello,👋 I'm Anagha-k
 
-Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|
+##Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|
 
 🌱 I’m currently learning Advanced AI/ML techniques,cloud computing
 
 📫 How to reach me anaghakprasad2003@gamil.com
 
-Connect with me:
+#Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 

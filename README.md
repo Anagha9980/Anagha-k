@@ -1,6 +1,6 @@
-#Hello,👋 I'm Anagha-k
+<h1>Hello,👋 I'm Anagha-k
 
-##Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|
+<h2>Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|
 
 🌱 I’m currently learning Advanced AI/ML techniques,cloud computing
 

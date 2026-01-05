@@ -1,16 +1,20 @@
-<h1>Hello,👋 I'm Anagha-k
+                                                                                    <h1>Hello,👋 I'm Anagha-k
+                                                                                    
 
 <h2>Ai&ML💻 Graduate| Cloud Enthusiast|Advance AI tools🧑‍💻|Data analyst|
+
 
 🌱 I’m currently learning Advanced AI/ML techniques,cloud computing
 
 📫 How to reach me anaghakprasad2003@gamil.com
 
-#Connect with me:
+<h1>Connect with me:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
-#Languages and Tools:
+<h1>Languages and Tools:
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -24,7 +28,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 My Projects
+<h1> 💻 My Projects
 
 1. [Face Recognition Attendance System](https://github.com/Anagha9980/face-recognition.git)  
    Automated attendance system using Python, OpenCV & MySQL.

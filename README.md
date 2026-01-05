@@ -33,11 +33,11 @@
 
 <h2> 💻 My Projects
 
-1. [Face Recognition Attendance System](https://github.com/Anagha9980/face-recognition.git)  
+<h2>1. [Face Recognition Attendance System](https://github.com/Anagha9980/face-recognition.git)  
    Automated attendance system using Python, OpenCV & MySQL.
 
 2. [Online Attendance system](https://github.com/Anagha9980/online-attendance.git)  
-   Full-stack web application built with React, Node.js, and MongoDB.
+   Full-stack web application built with React, Node.js, and MongoDB.</h2>
 
 
 

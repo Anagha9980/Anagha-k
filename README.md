@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Anagha9980/yourusername/blob/main/profile-pic.png?raw=true)
+
 
 
 

@@ -43,6 +43,12 @@
 2. [Online Attendance system](https://github.com/Anagha9980/online-attendance.git)  
    Full-stack web application built with React, Node.js, and MongoDB.
 
+3.LLM LANGCHAIN SUMMARIZER
+https://github.com/Anagha9980/langchain-summarizer.git
+
+4. RAG BOT
+   https://github.com/Anagha9980/project-2-pdf-rag-bot.git
+
 
 
 
